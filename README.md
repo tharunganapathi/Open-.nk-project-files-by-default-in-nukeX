@@ -1,0 +1,1 @@
+# Open-.nk-project-files-by-default-in-nukeX
