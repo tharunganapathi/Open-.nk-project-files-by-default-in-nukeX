@@ -3,6 +3,11 @@
 By default, we cannot able to lauch the nuke's workfile in nukeX.
 but we can achieve that through modifying some commands in ""regedit""
 
+
+# Explanatory video:
+##  link : https://www.youtube.com/watch?v=bsccrlIW1U0&t/channel=THARUNGANAPATHI
+<br><br><br>
+
 #   1. Goto Startmenu, and search for Nuke12.2v4, then right click and open file location<br>
 
 ![1](https://user-images.githubusercontent.com/65713157/132125009-015a85f1-122c-478a-986b-86893b45db9e.jpg)
@@ -58,4 +63,4 @@ but we can achieve that through modifying some commands in ""regedit""
 
 Then follow the below video
 
-link : https://www.youtube.com/watch?v=bsccrlIW1U0&t/channel=THARUNGANAPATHI
+
